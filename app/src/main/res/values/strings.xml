@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KTProject</string>
+    <string name="Login">Login</string>
+    <string name="hint_uname">Username</string>
+    <string name="hint_pass">Password</string>
+
+    <string name="signup">Signup</string>
+    <string name="uname">Username</string>
+    <string name="pass">Password</string>
+    <string name="mob">Mobile</string>
+    <string name="country">Country</string>
+    <string name="loc">Location</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="title_location_permission">Location</string>
+    <string name="text_location_permission">Enable Location</string>
+    <string name="text_ok">ok</string>
+    <string name="text_Map">Locate Me</string>
+    <string name="title_activity_maps">MapView</string>
+    <string name="title_latitude">Latitude :</string>
+    <string name="title_longitude">Longitude :</string>
+
+</resources>
